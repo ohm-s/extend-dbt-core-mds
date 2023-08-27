@@ -1,0 +1,5 @@
+.idea
+logs/
+**/logs/
+.user.yml
+__pycache__

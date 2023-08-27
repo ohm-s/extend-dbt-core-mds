@@ -1,0 +1,2 @@
+# Yaml files are ignored because they are generated using run-operation
+*.yml
